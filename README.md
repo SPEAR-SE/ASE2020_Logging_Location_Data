@@ -9,3 +9,5 @@ This is the repository containing the replication package for paper "Where Shall
     - `level` shows the verbosity level of this logging statement
     - `callsite` represents for the class and method of that this logging statement locates in
     - `line` shows the line number that this logging statement locates at
+
+- `where_to_log_code.zip` contains the code and block data related to this paper.
